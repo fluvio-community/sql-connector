@@ -23,7 +23,7 @@ eyre = { version = "0.6", default-features = false }
 futures = { version = "0.3", default-features = false }
 futures-util = { version = "0.3", default-features = false }
 humantime = "2.1.0"
-itertools = "0.13"
+itertools = "0.14"
 log = { version = "0.4", default-features = false }
 once_cell = { version = "1.20", default-features = false }
 rust_decimal = { version = "1.36", default-features = false }
